@@ -6,3 +6,24 @@
     height: 980px;
 
 }
+
+.top {
+    padding-top:50px;
+    display:flex;
+    justify-content: space-between;
+}
+.logo-section {
+    padding-left:20px;
+    display: flex;
+}
+.text > p {
+    font-size: 24px;
+    color:white;
+    padding-left:10px;
+    font-family: 'Open Sans Condensed', sans-serif;
+    line-height: 1;
+}
+span {
+    font-family: 'Yeon Sung', cursive;
+    font-size: 40px;
+}
