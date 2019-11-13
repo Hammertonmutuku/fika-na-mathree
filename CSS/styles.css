@@ -1,0 +1,9 @@
+
+.bod {
+    background:linear-gradient(rgba(95,44,130, 0.8), rgba(73, 160,157 ,0.7)), url(../images/matatu-2\ \(1\).jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    height: 980px;
+
+}
