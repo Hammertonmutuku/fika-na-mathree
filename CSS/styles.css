@@ -10,9 +10,8 @@
     height: 980px;
 
 }
-
 .top {
-    padding-top:50px;
+    padding-top:40px;
     display:flex;
     justify-content: space-between;
 }
@@ -21,7 +20,7 @@
     display: flex;
 }
 .text > p {
-    font-size: 24px;
+    font-size: 36px;
     color:white;
     padding-left:10px;
     font-family: 'Open Sans Condensed', sans-serif;
@@ -29,5 +28,8 @@
 }
 span {
     font-family: 'Yeon Sung', cursive;
-    font-size: 40px;
+    font-size: 52px;
+}
+.social-media {
+    color:white;
 }
