@@ -1,9 +1,13 @@
+@import url('https://fonts.googleapis.com/css?family=ZCOOL+QingKe+HuangYou&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Libre+Baskerville|ZCOOL+QingKe+HuangYou&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Yeon+Sung&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&display=swap');
 .bod {
     background:linear-gradient(rgba(95,44,130, 0.8), rgba(73, 160,157 ,0.7)), url(../images/matatu-2\ \(1\).jpg);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center center;
-    background-color: #3b3b85;
     height: 980px;
 
 }
+
